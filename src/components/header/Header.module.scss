@@ -1,0 +1,48 @@
+.header {
+    h2 {
+        text-align: center;
+        margin: 21px 0;
+        font-size: 20px;
+    }
+
+    a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+    ul {
+        display: flex;
+        justify-content: center;
+        padding: 0;
+        border-bottom: 1px solid #333;
+        margin-bottom: 22px;
+
+        a {
+            text-decoration: none;
+            margin: 8px 22px;
+            font-weight: 400;
+            font-size: 17px;
+            color: #ffffff;
+            text-align: center;
+            text-transform: uppercase;
+            list-style: none;
+        }
+
+        li {
+            display: block;
+            padding: 8px 15px;
+            color: #979797;
+            text-align: center;
+            text-transform: uppercase;
+            list-style: none;
+            transition: color 0.1s ease-in-out;
+
+            &:active {
+                list-style: none;
+            }
+        }
+        .active {
+            color: #ffffff;
+        }
+    }
+}

@@ -1,0 +1,39 @@
+.pagination {
+    margin: 10px;
+
+    .paginationInfo {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+
+        .paginationItems {
+            display: flex;
+            flex-wrap: wrap;
+            margin: 0 10px;
+            list-style: none;
+            padding: 0;
+
+            li {
+                margin: 10px;
+
+                a {
+                    text-decoration: none;
+                    color: #aaa;
+
+                    &:active {
+                        color: #ffffff;
+                    }
+                }
+                .active {
+                    color: #ffffff !important;
+                }
+            }
+        }
+        .paginationClick {
+            width: 20px;
+            background-color: transparent;
+            color: #aaa;
+            margin-top: 10px;
+        }
+    }
+}
