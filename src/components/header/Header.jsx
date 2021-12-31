@@ -10,7 +10,7 @@ const Header = () => {
 
     return (
         <div className={styles.header}>
-            <Link to="/">
+            <Link to="/react-gym-journal">
                 <h2>Контроль силовых показателей</h2>
             </Link>
             <ul>
