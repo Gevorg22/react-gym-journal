@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gym-journal/static/css/main.54ba2d7d.chunk.css",
+    "main.js": "/react-gym-journal/static/js/main.083abbe4.chunk.js",
+    "main.js.map": "/react-gym-journal/static/js/main.083abbe4.chunk.js.map",
+    "runtime-main.js": "/react-gym-journal/static/js/runtime-main.ee5e1398.js",
+    "runtime-main.js.map": "/react-gym-journal/static/js/runtime-main.ee5e1398.js.map",
+    "static/js/2.e5d2e622.chunk.js": "/react-gym-journal/static/js/2.e5d2e622.chunk.js",
+    "static/js/2.e5d2e622.chunk.js.map": "/react-gym-journal/static/js/2.e5d2e622.chunk.js.map",
+    "index.html": "/react-gym-journal/index.html",
+    "static/css/main.54ba2d7d.chunk.css.map": "/react-gym-journal/static/css/main.54ba2d7d.chunk.css.map",
+    "static/js/2.e5d2e622.chunk.js.LICENSE.txt": "/react-gym-journal/static/js/2.e5d2e622.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee5e1398.js",
+    "static/js/2.e5d2e622.chunk.js",
+    "static/css/main.54ba2d7d.chunk.css",
+    "static/js/main.083abbe4.chunk.js"
+  ]
+}
