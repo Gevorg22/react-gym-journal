@@ -14,7 +14,7 @@ const Header = () => {
                 <h2>Контроль силовых показателей</h2>
             </Link>
             <ul>
-                <Link to="/">
+                <Link to="/react-gym-journal">
                     <li
                         id={0}
                         onClick={addActive}
